@@ -7,7 +7,7 @@ activates virtual environment \
 ```source mpRAGapp/bin/activate```
 
 install dependencies \
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 ### Run
 ```python3 multipurposeRAGapp.py```
