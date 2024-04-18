@@ -12,7 +12,7 @@ import os
 from pypdf import PdfReader
 import gradio as gr
 
-claude_api_key = "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"
+claude_api_key = # ask isaac
 
 def encode_docs(uploaded_files:list, encoding_folder:str, mode, progress=gr.Progress()):
     encoding_folder = os.getcwd() + f"/{encoding_folder}"
