@@ -28,3 +28,7 @@ now that the encodings are loaded in,
 you can do this as many times as you'd like - you do not need to reload the encodings each time.
 
 to ask questions aobut new documents, redo ```upload files```, ```encoding text```, and ```loading encodings```,
+
+
+# <span style="color:red">API key required to use Claude  </span>
+in both the python file and jupyter notebook versions, you'll need an API key for claude. I am happy to share mine with you (just ask) or you can create your own at https://www.anthropic.com/api

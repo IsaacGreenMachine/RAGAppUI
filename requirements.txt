@@ -7,5 +7,6 @@ pandas==2.2.2
 pypdf==4.2.0
 scikit-learn==1.4.2
 sentence-transformers==2.7.0
+sentencepiece==0.2.0
 tqdm==4.66.2
 transformers==4.40.0

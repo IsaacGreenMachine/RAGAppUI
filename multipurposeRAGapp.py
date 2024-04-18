@@ -1,3 +1,4 @@
+from anthropic import Anthropic
 from pathlib import Path
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_community.embeddings import HuggingFaceEmbeddings
