@@ -20,3 +20,5 @@ install dependencies \
 
 ### Run
 run (```ctl + enter```) blocks from top to bottom
+
+![image of the app running ](docs/running_app.png "Title")
